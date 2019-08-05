@@ -22,7 +22,7 @@ export default {
     msg: String
   },
   mounted(){
-      G6.registerNode('file-node', {
+    G6.registerNode('file-node', {
     draw: function draw(cfg, group) {
       var keyShape = group.addShape('rect', {
         attrs: {
@@ -83,7 +83,7 @@ export default {
     }
   }, 'polyline');
   var graph = new G6.TreeGraph({
-    container: graphID,
+    container: graphID,// unique id for each graph
     width: window.innerWidth,
     height: window.innerHeight,
     pixelRatio: 2,
