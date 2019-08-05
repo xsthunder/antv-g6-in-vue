@@ -1,5 +1,5 @@
 # antv-g6-in-vue
-
+[file sytem in vue](https://antv.alipay.com/zh-cn/g6/3.x/demo/tree/tree-indented.html)
 ## Project setup
 ```
 yarn install
@@ -27,3 +27,4 @@ yarn run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
