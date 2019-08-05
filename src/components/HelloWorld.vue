@@ -5,7 +5,7 @@
       antv/g6
     </h3>
     <ul>
-      <li><a href="https://antv.alipay.com/zh-cn/g6/3.x/demo/tree/tree-indented.html" target="_blank" rel="noopener">see original version of file sytem in vue</a></li>
+      <li><a href="https://antv.alipay.com/zh-cn/g6/3.x/demo/tree/tree-indented.html" target="_blank" rel="noopener">see original version of file sytem in antv/g6</a></li>
     </ul>
     <div id='an-unique-id'>
     </div>
