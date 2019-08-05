@@ -1,6 +1,9 @@
 # antv-g6-in-vue
-[file sytem in vue](https://antv.alipay.com/zh-cn/g6/3.x/demo/tree/tree-indented.html)
+
+[see original version of file sytem in antv/g6](https://antv.alipay.com/zh-cn/g6/3.x/demo/tree/tree-indented.html)
+
 ![](2019-08-05-11-28-34.png)
+
 ## Project setup
 ```
 yarn install
